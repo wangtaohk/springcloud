@@ -22,6 +22,9 @@
         <module>service-ribbon</module>
         <module>service-feign</module>
         <module>service-zuul</module>
+        <module>config/config-server</module>
+        <module>config/config-client</module>
+        <module>config/eureka-config-server</module>
     </modules>
 
     <dependencies>
